@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Video Game Tracker</string>
+    <string name="view_collection">View Collection</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="game_title">Game Title:</string>
+    <string name="platform">Platform:</string>
+    <string name="search">Search</string>
+    <string name="search_web">Guides</string>
+</resources>
